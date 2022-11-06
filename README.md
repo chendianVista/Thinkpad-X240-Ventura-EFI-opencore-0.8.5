@@ -6,4 +6,5 @@ After installation, you need to install the following Patchers to drive the HD44
 
 https://github.com/dortania/OpenCore-Legacy-Patcher
 
-![截屏2022-11-05 22 50 32](https://user-images.githubusercontent.com/59724637/200126013-4f182632-a42d-40f7-85a3-edbbdfe62595.png)
+![200126013-4f182632-a42d-40f7-85a3-edbbdfe62595](https://user-images.githubusercontent.com/59724637/200149026-9df8b8cf-13d6-406b-98f8-7105d0e7ed57.png)
+
